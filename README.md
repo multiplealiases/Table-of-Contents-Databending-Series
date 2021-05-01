@@ -9,3 +9,14 @@ No pressure, though, the major articles (except *What I do Differently*) have a 
 - [Databending with Audacity: FFmpeg as an Intermediary for Images](https://github.com/multiplealiases/Databending-Audacity-FFmpeg/blob/main/README.md)
 - [Databending with FFmpeg: (Ab)using Lossy Audio Compression to Databend Images](https://github.com/multiplealiases/Databending-With-FFmpeg/blob/main/README.md)
 
+## The articles that inspired this series
+I don't know where exactly to place it, but here it is.
+
+These are the articles that first planted the seed of databending into me. Go read their stuff too! I merely stand on the shoulders of giants.
+
+- [Databending using Audacity](https://www.hellocatfood.com/databending-using-audacity/) by Antonio Roberts
+- [databending and glitch art primer, part 2: sonification](http://blog.animalswithinanimals.com/2008/09/databending-and-glitch-art-primer-part.html) by stAllio!'s way
+- [Databending using Audacity Effects](https://questionsomething.wordpress.com/2012/07/26/databending-using-audacity-effects/) by questionsomething
+
+There's other more extensive resources out there, like [this](https://www.glitchet.com/resources). I'm specifically crediting these particular ones because they inspired my particular kind of databending.
+
