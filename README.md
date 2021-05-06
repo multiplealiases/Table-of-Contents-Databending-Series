@@ -9,6 +9,10 @@ No pressure, though, the major articles (except *What I do Differently*) have a 
 - [Databending with Audacity: FFmpeg as an Intermediary for Images](https://github.com/multiplealiases/Databending-Audacity-FFmpeg/blob/main/README.md)
 - [Databending with FFmpeg: (Ab)using Lossy Audio Compression to Databend Images](https://github.com/multiplealiases/Databending-With-FFmpeg/blob/main/README.md)
 
+## Further context
+
+I often speak of "raw", "something-bit PCM", "RGB and YUV" in these articles. This video, [*A Digital Media Primer For Geeks by Christopher "Monty" Montgomery and Xiph.org*](https://youtu.be/FG9jemV1T7I) ([text version](https://wiki.xiph.org/Videos/A_Digital_Media_Primer_For_Geeks)), is a wonderful introduction to that wild world. It slams you with information at a consistently-high speed, so don't feel bad if you don't get it the first time.
+
 ## The articles that inspired this series
 I don't know where exactly to place it, but here it is.
 
