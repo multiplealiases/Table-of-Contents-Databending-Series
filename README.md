@@ -8,6 +8,7 @@ No pressure, though, the major articles (except *What I do Differently*) have a 
 - [Databending with Audacity: The Effect of Paulstretch on Planar RGB Images](https://github.com/multiplealiases/Planar-RGB-and-Paulstretch/blob/main/README.md)
 - [Databending with Audacity: FFmpeg as an Intermediary for Images](https://github.com/multiplealiases/Databending-Audacity-FFmpeg/blob/main/README.md)
 - [Databending with FFmpeg: (Ab)using Lossy Audio Compression to Databend Images](https://github.com/multiplealiases/Databending-With-FFmpeg/blob/main/README.md)
+  - [Addendum: Automated image to audio 'bending](https://github.com/multiplealiases/Addendum-Automated-I2A2I/blob/main/README.md)
 - [Databending with FFmpeg: Misinterpreting Audio as Video for Fun and Profit](https://github.com/multiplealiases/Databending-with-FFmpeg-Audio-to-Video-Misinterpretation/blob/main/README.md)
 
 ## Further context
